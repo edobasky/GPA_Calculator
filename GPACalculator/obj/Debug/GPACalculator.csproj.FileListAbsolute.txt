@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
+C:\Users\hp\source\repos\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
